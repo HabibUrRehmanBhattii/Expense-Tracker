@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/HabibUrRehmanBhattii.github.io/Expense-Tracker/static/css/main.dc10b84a.css",
-    "main.js": "/HabibUrRehmanBhattii.github.io/Expense-Tracker/static/js/main.24884216.js",
-    "index.html": "/HabibUrRehmanBhattii.github.io/Expense-Tracker/index.html",
-    "main.dc10b84a.css.map": "/HabibUrRehmanBhattii.github.io/Expense-Tracker/static/css/main.dc10b84a.css.map",
-    "main.24884216.js.map": "/HabibUrRehmanBhattii.github.io/Expense-Tracker/static/js/main.24884216.js.map"
+    "main.css": "/Expense-Tracker/static/css/main.dc10b84a.css",
+    "main.js": "/Expense-Tracker/static/js/main.24884216.js",
+    "index.html": "/Expense-Tracker/index.html",
+    "main.dc10b84a.css.map": "/Expense-Tracker/static/css/main.dc10b84a.css.map",
+    "main.24884216.js.map": "/Expense-Tracker/static/js/main.24884216.js.map"
   },
   "entrypoints": [
     "static/css/main.dc10b84a.css",
