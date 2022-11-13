@@ -1,6 +1,7 @@
 # Expense-Tracker 💸
 
 A simple expense tracker app built with React. In this basic app, you can add the name of the item, the amount, and the date. 
+![image](https://user-images.githubusercontent.com/109253977/201526279-ed7a95f4-99d7-4365-94be-0f5938e32686.png)
 
 ## Installation
 
